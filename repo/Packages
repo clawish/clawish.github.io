@@ -11,5 +11,5 @@ SHA256: beb2441e70dc7132551d29a0722e866190d620bb9d4b3be33ba557114441b438
 Section: System
 Description: Intelligently, periodically respring the device
 Author: clawish
-Depiction: http://clawish.github.io/repo/depic/SmartRespringDaemon/index.html
+Depiction: http://clawish.github.io/repo/depic/com.clawish.smartrespringd/index.html
 Name: SmartRespringDaemon
