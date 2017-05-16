@@ -1,0 +1,35 @@
+Package: com.clawish.shazamyoutubelink
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: clawish <clawish@gmx.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.clawish.shazamyoutubelink_0.0.2_iphoneos-arm.deb
+Size: 3564
+MD5sum: b0b8700571374223747098f6454cf182
+SHA1: 0c8882b5ab9ad62c2da670e8f5f57a31bf6d389a
+SHA256: 49fa8f8c2b927c6cef9194ad5c6c408fb77d8c892ea7bdfce89f948b7ae55fa6
+Section: Tweaks
+Description: Open YouTube app from Shazam
+ Open YouTube app when tapping on YouTube videos in Shazam.
+ Tested on iOS 9.3.3 and Shazam 10.0.1.
+ Should work for Shazam Encore, too.
+Author: clawish <clawish@gmx.com>
+Name: ShazamYoutubeLink
+
+Package: com.clawish.smartrespringd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: clawish <clawish@gmx.com>
+Installed-Size: 284
+Depends: firmware (>=8.0)
+Filename: debs/com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
+Size: 24694
+MD5sum: c577aed534f41a1754802580f1b92f31
+SHA1: cf71c84f5ccb7880ce1066aef6d877c3db42c72f
+SHA256: 0d3a80e4e6dbf1ca65aca684d5bcb4f6ac682d8c396be045453da65aa82b96e5
+Section: Tweaks
+Description: Intelligently, periodically respring the device
+Author: clawish <clawish@gmx.com>
+Name: SmartRespringDaemon
+
