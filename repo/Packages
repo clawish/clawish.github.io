@@ -3,11 +3,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: clawish
 Depends: firmware (>=8.0) 
-Filename: ./debs/com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
+Filename: debs/com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
 Size: 24684
 MD5sum: ded574738249adc4680d1b3abede1f0d
 Section: System
 Description: Intelligently, periodically respring the device
 Author: clawish
-Depiction: https://clawish.github.io/repo/depic/com.clawish.smartrespringd/index.html
 Name: SmartRespringDaemon
