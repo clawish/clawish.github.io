@@ -22,5 +22,6 @@ Description: Intelligently respring the device in background
  - no resprings when under a customizable battery level (to conserve)
  Compatible with iOS 8, 9, 10.
 Author: clawish <clawish@gmx.com>
+Depiction: https://clawish.github.io/repo/depiction/SmartRespringDaemon
 Name: SmartRespringDaemon
 
