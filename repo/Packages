@@ -5,10 +5,10 @@ Maintainer: clawish <clawish@gmx.com>
 Installed-Size: 284
 Depends: firmware (>=8.0)
 Filename: debs/com.clawish.smartrespringd_0.0.2_iphoneos-arm.deb
-Size: 23886
-MD5sum: 81d244d651e33acbe1e1e10d02d1c3d0
-SHA1: 9bfa6fd9c4bb3280ba66cd1cefc0f48c49255630
-SHA256: 87a1eec737487549b1c4cdafeb95a2e8cc84b975f4eb64c095dd300ed2ba7321
+Size: 23912
+MD5sum: ae254f7741d49306e083e87b3aae8750
+SHA1: ccd85c89f0590ba6fc049240b3718324fc421377
+SHA256: 9cf3ed5174de0459fd0f659e5ea353a5b777d31b930ddff1e3c449a0716f0512
 Section: System
 Description: Intelligently respring the device in background
 Author: clawish <clawish@gmx.com>
