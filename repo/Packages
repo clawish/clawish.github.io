@@ -12,5 +12,6 @@ SHA256: 5453a21e29a4a7cc664a9bb3a8eea093f9762154301dd583e9c6cbec8d31bb44
 Section: System
 Description: Intelligently respring the device in background
 Author: clawish <clawish@gmx.com>
+Depiction: https://clawish.github.io/repo/depiction/SmartRespringDaemon
 Name: SmartRespringDaemon
 
