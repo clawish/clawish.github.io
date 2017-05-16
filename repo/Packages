@@ -1,15 +1,15 @@
- Package: com.clawish.smartrespringd
- Version: 0.0.1
- Architecture: iphoneos-arm
- Maintainer: clawish
- Depends: 
- Filename: com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
- Size: 24684
- MD5sum: DED574738249ADC4680D1B3ABEDE1F0D
- SHA1: B748213932F63B40C2C894FA172C4561C1B65E6D
- SHA256: BEB2441E70DC7132551D29A0722E866190D620BB9D4B3BE33BA557114441B438
- Section: System
- Description: (description)
- Author: clawish
- Depiction: http://clawish.github.io/repo/depic/SmartRespringDaemon/index.html
- Name: SmartRespringDaemon
+Package: com.clawish.smartrespringd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: clawish
+Depends: 
+Filename: com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
+Size: 24684
+MD5sum: DED574738249ADC4680D1B3ABEDE1F0D
+SHA1: B748213932F63B40C2C894FA172C4561C1B65E6D
+SHA256: BEB2441E70DC7132551D29A0722E866190D620BB9D4B3BE33BA557114441B438
+Section: System
+Description: (description)
+Author: clawish
+Depiction: http://clawish.github.io/repo/depic/SmartRespringDaemon/index.html
+Name: SmartRespringDaemon
