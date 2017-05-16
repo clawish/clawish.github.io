@@ -2,8 +2,9 @@ Package: com.clawish.smartrespringd
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: clawish
-Depends: firmware (>=8.0) 
-Filename: debs/com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
+Installed-Size: 284
+Depends: firmware (>=8.0)
+Filename: ./debs/com.clawish.smartrespringd_0.0.1_iphoneos-arm.deb
 Size: 24684
 MD5sum: f400742cdf359abb13f05f7b4e2d8727
 SHA1: 282b413b98f3d73cc710c8c17e952ba3e6248307
