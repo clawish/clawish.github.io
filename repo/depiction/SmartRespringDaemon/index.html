@@ -12,7 +12,7 @@ body
 </style>
 </head>
 <body>
-<p><b>Fix (circumvent) random resprings that for example occur when accessing the camera in apps!</b><br><br>
+<p><b>Prevent random resprings that for example occur when accessing the camera in apps!</b><br><br>
 It was observed that such random crashes never happen twice in a row. Making use of this observation, the purpose of this daemon is to act preventively by periodically respringing the device in the background while idle.<br>
 The daemon is very non-intrusive, takes into account user activity for respringing, and only resprings when the phone really is idle:<br>
 <ul>
