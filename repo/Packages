@@ -5,13 +5,22 @@ Maintainer: clawish <clawish@gmx.com>
 Installed-Size: 284
 Depends: firmware (>=8.0)
 Filename: debs/com.clawish.smartrespringd_0.0.2_iphoneos-arm.deb
-Size: 24304
-MD5sum: 24210549e0ad8b9a75702b0e9c4ac030
-SHA1: 7d905fefda131d5342cd135b835df1308d7a6aa9
-SHA256: f2c674dbf3141ae8d7fccf02274f64c236cb9fc0c31a38fbfd284648950e4fde
+Size: 24322
+MD5sum: 45bab091f3c0033be5061d8611791141
+SHA1: 2917d7d2b19a30715be7a8de7bbc71421a82a307
+SHA256: 7d72c46ac2cd8c49aebfe7812923a771e1215680c3bfbbbe4b58c067512dfca6
 Section: System
 Description: Intelligently respring the device in background
+ Prevent random resprings that for example occur when accessing the camera in apps!
+ It was observed that such random crashes never happen twice in a row. Making use of this observation, the purpose of this daemon is to act preventively by periodically respringing the device in the background while idle.
+ The daemon is very non-intrusive, takes into account user activity for respringing, and only resprings when the phone really is idle:
+ - no resprings when screen is on
+ - no resprings when listening to music
+ - no resprings when on any type of call (phone, Skype, WhatsApp, FaceTime, ...)
+ - no resprings when location is used in the background (while using Maps, Google Maps, Waze, ...)
+ - no resprings when phone was used recently
+ - no resprings when under a customizable battery level (to conserve)
+ Compatible with iOS 8, 9, 10.
 Author: clawish <clawish@gmx.com>
-Depiction: https://clawish.github.io/repo/depiction/SmartRespringDaemon
 Name: SmartRespringDaemon
 
