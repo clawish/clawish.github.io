@@ -1,0 +1,17 @@
+Package: com.clawish.smartrespringd
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: clawish <clawish@gmx.com>
+Installed-Size: 284
+Depends: firmware (>=8.0)
+Filename: debs/com.clawish.smartrespringd_0.0.2_iphoneos-arm.deb
+Size: 24304
+MD5sum: 24210549e0ad8b9a75702b0e9c4ac030
+SHA1: 7d905fefda131d5342cd135b835df1308d7a6aa9
+SHA256: f2c674dbf3141ae8d7fccf02274f64c236cb9fc0c31a38fbfd284648950e4fde
+Section: System
+Description: Intelligently respring the device in background
+Author: clawish <clawish@gmx.com>
+Depiction: https://clawish.github.io/repo/depiction/SmartRespringDaemon
+Name: SmartRespringDaemon
+
