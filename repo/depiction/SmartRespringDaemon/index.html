@@ -12,7 +12,7 @@ body
 </style>
 </head>
 <body>
-<b style="font-size: 14pt;">Please kill the process SmartRespringDaemon after upgrading from 0.0.4 to 0.0.5. This can be done by REBOOTING for example.</b><br><br>
+<!-- <b style="font-size: 14pt;">Please kill the process SmartRespringDaemon after upgrading from 0.0.4 to 0.0.5. This can be done by REBOOTING for example.</b><br><br> -->
 <p><b>Prevent random resprings that for example occur when accessing the camera in apps!</b><br><br>
 It was observed that such random crashes never happen twice in a row. Making use of this observation, the purpose of this daemon is to act preventively by periodically respringing the device in the background while idle.<br>
 The daemon is very non-intrusive, takes into account user activity for respringing, and only resprings when the phone really is idle:<br>
@@ -27,6 +27,7 @@ The daemon is very non-intrusive, takes into account user activity for respringi
 Compatible with iOS 8, 9, 10.<br>Customizable from Settings.<br><br>
 
 Changelog:<br>
+0.0.6 Fixed a bug where the daemon would not respring when in airplane mode<br>
 0.0.5 Rewritten code. SmartRespringDaemon is now a SpringBoard tweak. Added Don't Stop The Party (not Lite) compatibility<br>
 0.0.4 Reverted Don't Stop The Party compatibility since there are issues with resprings during calls<br>
 0.0.3 Don't Stop The Party (not Lite) compatibility<br>
